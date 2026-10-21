@@ -2,7 +2,7 @@
 
 ## Identitas Mahasiswa
 
-- Nama: ZZulfatul Azkiya
+- Nama: Zulfatul Azkiya
 - NIM: 2225250104
 - Kelas: 3A
 - Mata Kuliah: Pemrograman Komputer
